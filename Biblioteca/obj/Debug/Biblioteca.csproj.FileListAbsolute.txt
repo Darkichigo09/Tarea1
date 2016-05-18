@@ -1,0 +1,6 @@
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
